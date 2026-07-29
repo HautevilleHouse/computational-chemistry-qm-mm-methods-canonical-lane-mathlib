@@ -1,0 +1,15 @@
+import canonicalLaneMathlib.QmMmAdmissibleClass
+import canonicalLaneMathlib.QmMmBridgeLemmas
+import canonicalLaneMathlib.QmMmGateLemmas
+import canonicalLaneMathlib.QmMmFinalTheorem
+import canonicalLaneMathlib.QmMmFormalization
+import canonicalLaneMathlib.QmMmMathlibStatement
+import canonicalLaneMathlib.QmMmProjection
+
+namespace HautevilleHouse
+namespace ComputationalChemistryQmMmMethodsCanonicalLaneLean
+
+-- Root module imports
+
+end ComputationalChemistryQmMmMethodsCanonicalLaneLean
+end HautevilleHouse
